@@ -52,6 +52,10 @@ Clone the repository and install using pip:
 git clone https://github.com/M1ndSmith/sandbox-wallet.git
 cd sandbox-wallet
 pip install .
+Alternatively
+Install the package using the setup.py file
+python setup.py install
+
 ```
 ## Install Dependencies
 
