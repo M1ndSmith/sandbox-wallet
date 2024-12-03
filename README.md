@@ -54,7 +54,9 @@ cd sandbox-wallet
 pip install .
 
 ```
+
 Alternatively
+
 Install the package using the setup.py file
 ```
 python setup.py install
