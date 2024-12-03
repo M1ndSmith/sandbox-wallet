@@ -49,7 +49,7 @@ sandbox_wallet/
 Clone the repository and install using pip:
 
 ```bash
-git clone https://github.com/your-username/sandbox-wallet.git
+git clone https://github.com/M1ndSmith/sandbox-wallet.git
 cd sandbox-wallet
 pip install .
 ```
@@ -113,10 +113,3 @@ python -m unittest discover tests
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
-
-
-
-
-
-
-[Add contact information or project maintainer details]
